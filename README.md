@@ -2,7 +2,7 @@
 
 This repository shows the boundary extraction and vectorization code used during the SmartLandMaps project.
 
-## Scripts 
+## :wrench: Scripts 
 
 The scripts can be found in the /scripts folder.
 
@@ -15,10 +15,13 @@ The scripts can be found in the /scripts folder.
 You can run the different modules independently. The SmartLandMaps_Notebook is a Colab Notebook that brings all the pieces together. Note that running the Notebook requires you to upload the dataset to be digitized to the Cloud (e.g. Google Drive) in case you would use Colab to do so.
 
 
-## Documentation 
+## :clipboard: Documentation 
 
-*The SmartLandMaps approach and the key intuitions of the software modules, see Lindner, C., Degbelo, A., Vassányi, G., Kundert, K. and Schwering, A. (2023) ‘The SmartLandMaps approach for participatory land rights mapping’, Land, 12(11). Available at: https://doi.org/10.3390/land12112043.
+* The SmartLandMaps approach and the key intuitions of the software modules, see Lindner, C., Degbelo, A., Vassányi, G., Kundert, K. and Schwering, A. (2023) ‘The SmartLandMaps approach for participatory land rights mapping’, Land, 12(11). Available at: https://doi.org/10.3390/land12112043.
+* ....
+* ....
+* ....
 
 
-Contact: [Auriol Degbelo](https://sites.google.com/site/aurioldegbelo/)
+:e-mail: Contact: [Auriol Degbelo](https://sites.google.com/site/aurioldegbelo/)
 

@@ -29,5 +29,5 @@ You can run the different modules independently. The SmartLandMaps_Notebook is a
 * ....
 
 ## ❔ Questions
-You are most welcome to open an issue if you have a question. You can also get in touch with [Auriol Degbelo](https://sites.google.com/site/aurioldegbelo/).
+You are most welcome to [open an issue](https://github.com/aurioldegbelo/smartlandmaps/issues) if you have a question. You can also get in touch with [Auriol Degbelo](https://sites.google.com/site/aurioldegbelo/).
 

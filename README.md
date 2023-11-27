@@ -1,4 +1,4 @@
-# smartlandmaps
+# SmartLanMaps
 Code for boundary extraction and vectorization used during the SmartLandMaps project.
 
 The scripts can be found in the /scripts folder. 

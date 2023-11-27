@@ -14,6 +14,12 @@ The scripts can be found in the /scripts folder.
 
 You can run the different modules independently. The SmartLandMaps_Notebook is a Colab Notebook that brings all the pieces together. Note that running the Notebook requires you to upload the dataset to be digitized to the Cloud (e.g. Google Drive) in case you would use Colab to do so.
 
+## 👩‍🏭👨‍🏭 Contributors
+* Auriol Degbelo (Ideas & Implementation)
+* Kaspar Kundert (Ideas & Testing)
+* Claudia Linder (Ideas & Testing)
+* Gergely Vassányi (Ideas & Implementation)
+
 
 ## :clipboard: Documentation 
 
@@ -22,6 +28,6 @@ You can run the different modules independently. The SmartLandMaps_Notebook is a
 * ....
 * ....
 
-
-:e-mail: Contact: [Auriol Degbelo](https://sites.google.com/site/aurioldegbelo/)
+## ❔ Questions
+You are most welcome to open an issue if you have a question. You can also get in touch with [Auriol Degbelo](https://sites.google.com/site/aurioldegbelo/).
 

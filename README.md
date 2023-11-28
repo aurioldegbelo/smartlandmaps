@@ -1,6 +1,6 @@
 # SmartLandMaps Digitization Software
 
-This repository shows the boundary extraction and vectorization code used during the SmartLandMaps project.
+This repository shows the code for boundary extraction and vectorization used during the SmartLandMaps project.
 
 ## :wrench: Scripts 
 
